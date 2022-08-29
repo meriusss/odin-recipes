@@ -18,7 +18,7 @@ header {
 
 .links {
     display: flex;
-    margin: 10px;
+    margin: 100px;
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
@@ -27,12 +27,12 @@ header {
 }
 
 .item {
-    margin: 10px 10px;
+    margin: 15px;
     text-align: center;
     border: 6px solid #B93160;
 }
 .item img {
-    max-width: 500px;
+    max-width: 650px;
     height: auto;
     margin: 0 0 -5px 0;
 }
