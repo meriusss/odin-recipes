@@ -51,9 +51,34 @@ header {
 
 .presentation {
     text-align: center;
+    margin: 50px;
 }
 
 .image {
     max-width: 650px;
-    
+}
+
+.list p {
+    margin-left: 30px;
+    font-size: large;
+}
+
+.title a {
+    text-align: center;
+    font-family: Sofia;
+    color: #FFF89C;
+}
+
+.title a:link {
+    text-align: center;
+    font-family: Sofia;
+    color: #FFF89C;
+    text-decoration: none;
+}
+
+.title a:visited {
+    text-align: center;
+    font-family: Sofia;
+    color: #FFF89C;
+    text-decoration: none;
 }
