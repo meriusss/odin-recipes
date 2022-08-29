@@ -48,3 +48,12 @@ header {
     color: #FFF89C;
     font-size: 40px;
 }
+
+.presentation {
+    text-align: center;
+}
+
+.image {
+    max-width: 650px;
+    
+}
